@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](.public/assets/images/screenshot.png)
+![](./public/assets/images/screenshot.png)
 
 ## Built with
 
